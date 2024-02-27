@@ -12,8 +12,7 @@ const Testimonials = () => (
       </h2>
       <div className="w-full md:mt-0 mt-6">
         <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-          Everything you need to accept card payments and grow your business
-          anywhere on the planet.
+        1AfricaRadioTV: Inspiring Unity, Celebrating Diversity. At 1AfricaRadioTV, our mission is clear: to inspire, empower, and unite the diverse communities of Africa and beyond. We believe in the power of storytelling to bridge divides, foster understanding, and celebrate the rich tapestry of cultures that make up our continent.
         </p>
       </div>
     </div>

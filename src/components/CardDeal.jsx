@@ -6,12 +6,10 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+      Are you ready to experience Africa like never before? <br className="sm:block hidden" />
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+      Step into the vibrant world of 1AfricaRadioTV. where we're on a mission to rewrite the narrative of our beloved continent and share its diverse cultures, languages, and stories with the world.
       </p>
 
       <Button styles={`mt-10`} />

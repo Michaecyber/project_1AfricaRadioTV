@@ -7,15 +7,15 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Features",
+    title: "About Us",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Shows",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Team",
   },
 ];
 
@@ -25,21 +25,21 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "At 1AfricaRadioTV, we're not just about sharing stories and uniting Africa – we love giving back to our amazing community! That's why we're thrilled to announce our latest rewards and giveaways, designed to thank you for being part of the 1Africa family keep listening.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Your security and privacy are our top priorities at 1AfricaRadioTV. We understand the importance of keeping your personal information safe and ensuring that your online experience with us is worry-free.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Community Empowering",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "At 1AfricaRadioTV, we believe in the power of community empowerment. We're not just a media platform; we're a catalyst for positive change, dedicated to uplifting and supporting the diverse communities across Africa and beyond.",
   },
 ];
 
@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      " As a proud Pan African, I've always longed for a platform that truly represents the richness and diversity of our continent. 1AfricaRadioTV has been that beacon of light for me.",
     name: "Herman Jensen",
-    title: "Founder & Leader",
+    title: "Listener",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Being away from home can be tough, but thanks to 1AfricaRadioTV, I feel connected to my roots no matter where I am in the world.",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "Listener",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "I've been a listener of 1AfricaRadioTV since its inception, and I can confidently say that it has played a significant role in shaping my perspective on Africa.",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Listener",
     img: people03,
   },
 ];
@@ -74,16 +74,16 @@ export const stats = [
   {
     id: "stats-1",
     title: "User Active",
-    value: "3800+",
+    value: "380M+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Listeners",
+    value: "1M+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
+    title: "Trusted By",
     value: "$230M+",
   },
 ];
@@ -94,23 +94,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://www.hoobank.com/content/",
+        link: "https://1africaradiotv.com/",
       },
       {
         name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        link: "https://1africaradiotv.com/",
       },
       {
         name: "Create",
-        link: "https://www.hoobank.com/create/",
+        link: "https://1africaradiotv.com/",
       },
       {
         name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        link: "https://1africaradiotv.com/",
       },
       {
         name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        link: "https://1africaradiotv.com/",
       },
     ],
   },
@@ -119,23 +119,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        link: "https://1africaradiotv.com/",
       },
       {
         name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        link: "https://1africaradiotv.com/",
       },
       {
         name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        link: "https://1africaradiotv.com/",
       },
       {
         name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        link: "https://1africaradiotv.com/",
       },
       {
         name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        link: "https://1africaradiotv.com/",
       },
     ],
   },
@@ -144,11 +144,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        link: "https://1africaradiotv.com/",
       },
       {
         name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "https://1africaradiotv.com/",
       },
     ],
   },
@@ -158,23 +158,23 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/p/C1OxN1_tsmi/",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://web.facebook.com/profile.php?id=100086667417275",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://twitter.com/1Africaradiotv",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
-  },
+    link: "https://www.linkedin.com/in/1-africa-radio-tv-604423230/?originalSubdomain=za",
+  }, 
 ];
 
 export const clients = [
