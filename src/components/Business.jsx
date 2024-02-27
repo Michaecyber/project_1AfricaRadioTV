@@ -36,6 +36,9 @@ const Business = () =>  (
         <FeatureCard key={feature.id} {...feature} index={index} />
       ))}
     </div>
+    <div>
+   <iframe> src="https://radio3.eclipse-streaming.co.za/public/1africaradio/embed?theme=light" frameborder="0" allowtransparency="true" style="width: 460px; min-height: 30px; border: 0;" </iframe> 
+    </div>
   </section>
 );
 
