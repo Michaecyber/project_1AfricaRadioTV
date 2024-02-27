@@ -1,9 +1,9 @@
 # Michael Js  - Modern UI/UX website using React.js & Tailwind CSS
 
+https://1africaradiotv.vercel.app/
+
 ![!AfricaRadioTV]  https://ibb.co/zsQGC32
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
 💻 Michael Js - (https://my-portfolio-alpha-eight-55.vercel.app/)
 
