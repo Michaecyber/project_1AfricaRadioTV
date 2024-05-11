@@ -23,6 +23,26 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
+import bmw from "./bmw.png";
+import engine from "./engine.png";
+import bmwd from "./bmwd.png";
+import bmwe from "./bmwe.png";
+import bmwf from "./bmwf.png";
+import bmwg from "./bmwg.png";
+import bmwh from "./bmwh.png";
+import bmwi from "./bmwi.png";
+import bmwj from "./bmwj.png";
+import bmwk from "./bmwk.png";
+import bmwl from "./bmwl.png";
+import tapet from "./tapet.png";
+import led from "./led.png";
+import lexus from "./lexus.png";
+import ranger from "./ranger.png";
+import rav from "./rav.png";
+import toyota from "./toyota.png";
+import vw from "./vw.png";
+import yaris from "./yaris.png";
+import timing from "./timing.png"
 
 export {
   airbnb,
@@ -50,4 +70,24 @@ export {
   people01,
   people02,
   people03,
+  bmw,
+  engine,
+  bmwd,
+  bmwe,
+  bmwf,
+  bmwg,
+  bmwh,
+  bmwi,
+  bmwj,
+  bmwk,
+  bmwl,
+  tapet,
+  led,
+  lexus,
+  ranger,
+  rav,
+  toyota,
+  vw,
+  yaris,
+  timing,
 };

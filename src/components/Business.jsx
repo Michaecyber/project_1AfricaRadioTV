@@ -21,11 +21,14 @@ const FeatureCard = ({ icon, title, content, index }) => (
 const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
+    <div>
+   <iframe> </iframe> 
+    </div>
       <h2 className={styles.heading2}>
-      Tune in to 1AfricaRadioTV: <br className="sm:block hidden" /> Uniting Africa!
+      Oils & Car Care <br className="sm:block hidden" /> Batteries, Tyres & Electrical
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      1AfricaRadioTV has the best music selection! I love listening to their diverse range of genres. Sharing Its Stories with the World!" - Feroza Moosa
+      Brake & Suspension Hillside AutoParts distributes engine components for over 3500 models of passenger, light and heavy commercial vehicles in both petrol and diesel.
       </p>
 
       <Button styles={`mt-10`} />
@@ -37,7 +40,7 @@ const Business = () =>  (
       ))}
     </div>
     <div>
-   <iframe> src="https://radio3.eclipse-streaming.co.za/public/1africaradio/embed?theme=light" frameborder="0" allowtransparency="true" style="width: 460px; min-height: 30px; border: 0;" </iframe> 
+   <iframe> src="bmw" frameborder="0" allowtransparency="true" style="width: 460px; min-height: 30px; border: 0;" </iframe> 
     </div>
   </section>
 );

@@ -8,11 +8,21 @@ const Testimonials = () => (
 
     <div className="w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-6 relative z-[1]">
       <h2 className={styles.heading2}>
-        What People are <br className="sm:block hidden" /> saying about us
+        BMW <br className="sm:block hidden" /> & Mercedes Parts
       </h2>
       <div className="w-full md:mt-0 mt-6">
         <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-        1AfricaRadioTV: Inspiring Unity, Celebrating Diversity. At 1AfricaRadioTV, our mission is clear: to inspire, empower, and unite the diverse communities of Africa and beyond. We believe in the power of storytelling to bridge divides, foster understanding, and celebrate the rich tapestry of cultures that make up our continent.
+        Order BMW Spare Parts and Accessories Online. 
+        
+        Our team of experts understands cars and most importantly our customers, to complement it we have a vast range of accessories and performance parts, such as: 
+        
+        BMW Body parts
+        BMW Break parts
+        BMW Electrical parts
+        BMW Engine parts
+        BMW Gearbox parts
+        BMW Steering parts
+        BMW Wheel parts, etc.
         </p>
       </div>
     </div>
@@ -21,6 +31,6 @@ const Testimonials = () => (
       {feedback.map((card) => <FeedbackCard key={card.id} {...card} />)}
     </div>
   </section>
-);
+); 
 
 export default Testimonials;

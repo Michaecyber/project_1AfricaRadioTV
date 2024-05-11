@@ -4,10 +4,9 @@ import Button from "./Button";
 const CTA = () => (
   <section className={`${styles.flexCenter} ${styles.marginY} ${styles.padding} sm:flex-row flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}>
     <div className="flex-1 flex flex-col">
-      <h2 className={styles.heading2}>Let’s Hook You Up with 1AfricaRadioTV:</h2>
+      <h2 className={styles.heading2}>Hillsie AutoParts provides auto Parts, Auto Accessories, Performance Parts, replacement car parts:</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Amplify Your Message to a Global Audience! Everything you need to grow your business
-        anywhere across the planet.
+      Hillside AutoParts  stock a variety of quality used car parts for all makes and models of cars.
       </p>
     </div>
 

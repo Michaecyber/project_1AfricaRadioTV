@@ -1,4 +1,20 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, bmw, engine, bmwe,
+  bmwf,
+  bmwg,
+  bmwh,
+  bmwi,
+  bmwj,
+  bmwk,
+  bmwl,
+  tapet,
+  led,
+  lexus,
+  ranger,
+  rav,
+  toyota,
+  vw,
+  yaris,
+  bmwd, timing, } from "../assets";
 
 export const navLinks = [
   {
@@ -7,15 +23,15 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "About Us",
+    title: "Auto Lights Parts",
   },
   {
     id: "product",
-    title: "Shows",
+    title: "Engine Parts",
   },
   {
     id: "clients",
-    title: "Team",
+    title: "Suspension",
   },
 ];
 
@@ -23,23 +39,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Suspension",
     content:
-      "At 1AfricaRadioTV, we're not just about sharing stories and uniting Africa – we love giving back to our amazing community! That's why we're thrilled to announce our latest rewards and giveaways, designed to thank you for being part of the 1Africa family keep listening.",
+      " Over 5 000 000 auto parts in stock. Delivery and online ordering.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "Your security and privacy are our top priorities at 1AfricaRadioTV. We understand the importance of keeping your personal information safe and ensuring that your online experience with us is worry-free.",
+      "H-AutoParts Incorporated in January 1972 we are the leading importers, retailers and wholesalers of auto parts in South Africa.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Community Empowering",
+    title: "Engine Parts",
     content:
-      "At 1AfricaRadioTV, we believe in the power of community empowerment. We're not just a media platform; we're a catalyst for positive change, dedicated to uplifting and supporting the diverse communities across Africa and beyond.",
+      "Buy auto spare parts online from a trusted partner.",
   },
 ];
 
@@ -47,25 +63,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      " As a proud Pan African, I've always longed for a platform that truly represents the richness and diversity of our continent. 1AfricaRadioTV has been that beacon of light for me.",
-    name: "Herman Jensen",
-    title: "Listener",
+      "Highly competitive prices and professional service. Travis in particular is a very down to earth and knowledgeable guy when it comes to parts for premium cars. Highly recommend.",
+    name: "Sam Sarim",
+    title: "Buyer",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Being away from home can be tough, but thanks to 1AfricaRadioTV, I feel connected to my roots no matter where I am in the world.",
-    name: "Steve Mark",
-    title: "Listener",
+      "Loved the customer service and faster response. Purchased few spare parts for my Bentley Bentayga, good thing that they had all items available and provided good discount with free same day delivery to my place.",
+    name: "Neels",
+    title: "Buyer",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "I've been a listener of 1AfricaRadioTV since its inception, and I can confidently say that it has played a significant role in shaping my perspective on Africa.",
-    name: "Kenn Gallagher",
-    title: "Listener",
+      "I had ordered maserati parts via hillside auto parts online store from Northwest. It was all very easy process to buy than expected. I have recieved Maserati break pads, engine parts as it is. Highly recommended to all & specially those who wants to buy car parts online without much trouble searching for physical shop..",
+    name: "Neveen Alwol",
+    title: "Buyer",
     img: people03,
   },
 ];
@@ -73,82 +89,86 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "380M+",
+    title: "New & Used Parts",
+    value: "10M+",
   },
   {
     id: "stats-2",
-    title: "Listeners",
+    title: "Imported Engines",
     value: "1M+",
   },
   {
     id: "stats-3",
-    title: "Trusted By",
-    value: "$230M+",
+    title: "Car Lights & Electronics",
+    value: "1M+",
   },
 ];
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Auto Brands",
     links: [
       {
-        name: "Content",
-        link: "https://1africaradiotv.com/",
+        name: "BMW",
+        link: "https://hillsideautoparts.com/",
       },
       {
-        name: "How it Works",
-        link: "https://1africaradiotv.com/",
+        name: "Polo",
+        link: "https://hillsideautoparts.com/",
       },
       {
-        name: "Create",
-        link: "https://1africaradiotv.com/",
+        name: "Toyota",
+        link: "https://hillsideautoparts.com/",
       },
       {
-        name: "Explore",
-        link: "https://1africaradiotv.com/",
+        name: "Mercedes Benz",
+        link: "https://hillsideautoparts.com/",
       },
       {
-        name: "Terms & Services",
-        link: "https://1africaradiotv.com/",
+        name: "Hyundai",
+        link: "https://hillsideautoparts.com/",
       },
     ],
   },
   {
-    title: "Community",
+    title: "Auto Parts",
     links: [
       {
-        name: "Help Center",
-        link: "https://1africaradiotv.com/",
+        name: "Engines",
+        link: "https://hillsideautoparts.com/",
+      },
+      {
+        name: "Lights",
+        link: "https://hillsideautoparts.com/",
+      },
+      {
+        name: "Suspension",
+        link: "https://hillsideautoparts.com/",
+      },
+      {
+        name: "Body Parts",
+        link: "https://hillsideautoparts.com/",
+      },
+      {
+        name: "Stripping",
+        link: "https://hillsideautoparts.com/",
+      },
+    ],
+  },
+  {
+    title: "Quick Link",
+    links: [
+      {
+        name: "About Us",
+        link: "https://hillsideautoparts.com/",
       },
       {
         name: "Partners",
-        link: "https://1africaradiotv.com/",
+        link: "https://hillsideautoparts.com/",
       },
       {
-        name: "Suggestions",
-        link: "https://1africaradiotv.com/",
-      },
-      {
-        name: "Blog",
-        link: "https://1africaradiotv.com/",
-      },
-      {
-        name: "Newsletters",
-        link: "https://1africaradiotv.com/",
-      },
-    ],
-  },
-  {
-    title: "Partner",
-    links: [
-      {
-        name: "Our Partner",
-        link: "https://1africaradiotv.com/",
-      },
-      {
-        name: "Become a Partner",
-        link: "https://1africaradiotv.com/",
+        name: "Contact",
+        link: "https://hillsideautoparts.com/",
       },
     ],
   },
@@ -158,26 +178,42 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/p/C1OxN1_tsmi/",
+    link: "https://www.instagram.com/hillsideautoparts/",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://web.facebook.com/profile.php?id=100086667417275",
+    link: "https://web.facebook.com/hillsideautoparts",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://twitter.com/1Africaradiotv",
+    link: "https://twitter.com/hillsideautoparts",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/in/1-africa-radio-tv-604423230/?originalSubdomain=za",
+    link: "https://www.linkedin.com/in/hillsideautoparts/",
   }, 
 ];
 
 export const clients = [
+  {
+    id: "client-3",
+    logo: coinbase,
+  },
+  {
+    id: "client-4",
+    logo: dropbox,
+  },
+  {
+    id: "client-5",
+    logo: bmw,
+  },
+  {
+    id: "client-6",
+    logo: yaris,
+  },
   {
     id: "client-1",
     logo: airbnb,
@@ -187,11 +223,62 @@ export const clients = [
     logo: binance,
   },
   {
-    id: "client-3",
-    logo: coinbase,
+    id: "client-7",
+    logo: vw,
   },
   {
-    id: "client-4",
-    logo: dropbox,
+    id: "client-8",
+    logo: toyota,
   },
-];
+  {
+    id: "client-9",
+    logo: tapet,
+  },
+  {
+    id: "client-10",
+    logo: bmwd,
+  },
+  {
+    id: "client-11",
+    logo: bmwe,
+  },
+  {
+    id: "client-12",
+    logo: bmwf,
+  },
+  {
+    id: "client-13",
+    logo: bmwg,
+  },
+  {
+    id: "client-14",
+    logo: bmwg,
+  },
+  {
+    id: "client-15",
+    logo: bmwh,
+  },
+  {
+    id: "client-16",
+    logo: bmwi,
+  },
+  {
+    id: "client-17",
+    logo: bmwj,
+  },
+  {
+    id: "client-18",
+    logo: bmwk,
+  },
+  {
+    id: "client-18",
+    logo: bmwl,
+  },
+  {
+    id: "client-18",
+    logo: timing,
+  },
+ ];
+
+ 
+

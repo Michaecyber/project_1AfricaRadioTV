@@ -6,10 +6,10 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-      Are you ready to experience Africa like never before? <br className="sm:block hidden" />
+      AutoParts Get in Touch today! <br className="sm:block hidden" />
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Step into the vibrant world of 1AfricaRadioTV. where we're on a mission to rewrite the narrative of our beloved continent and share its diverse cultures, languages, and stories with the world.
+      We're committed to quality, their parts are carefully selected from world-class manufacturers to the international automotive.
       </p>
 
       <Button styles={`mt-10`} />
