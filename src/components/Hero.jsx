@@ -28,9 +28,13 @@ const Hero = () => {
         ENGINE PARTS
         </h1>
         <button type="button" class="font-poppins font-semibold ss:text-[48px] text-[32px] text-white bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500 ...">
+        Tel: +27 67 665 9535
+        </button>
+        <p className="text-white">______________________________</p>
+        <button type="button" class="font-poppins font-semibold ss:text-[48px] text-[32px] text-white bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500 ...">        
         Tel: +27 78 250 7456
         </button>        
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+        <p className={`${styles.paragraph} max-w-[270px] mt-5`}>
         At Hillside Auto Parts Car Spares we pride ourselves with being able to stock parts for Most Makes and Models of Cars. 
         </p>
       </div>

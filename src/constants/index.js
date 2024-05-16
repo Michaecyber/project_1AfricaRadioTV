@@ -22,6 +22,10 @@ export const navLinks = [
     title: "Home",
   },
   {
+    id: "product",
+    title: "Products",
+  },
+  {
     id: "features",
     title: "Auto Lights Parts",
   },
@@ -210,75 +214,84 @@ export const clients = [
     id: "client-5",
     logo: bmw,
   },
-  {
-    id: "client-6",
-    logo: yaris,
-  },
-  {
-    id: "client-1",
-    logo: airbnb,
-  },
-  {
-    id: "client-2",
-    logo: binance,
-  },
-  {
-    id: "client-7",
-    logo: vw,
-  },
-  {
-    id: "client-8",
-    logo: toyota,
-  },
-  {
-    id: "client-9",
-    logo: tapet,
-  },
-  {
-    id: "client-10",
-    logo: bmwd,
-  },
-  {
-    id: "client-11",
-    logo: bmwe,
-  },
-  {
-    id: "client-12",
-    logo: bmwf,
-  },
-  {
-    id: "client-13",
-    logo: bmwg,
-  },
-  {
-    id: "client-14",
-    logo: bmwg,
-  },
-  {
-    id: "client-15",
-    logo: bmwh,
-  },
-  {
-    id: "client-16",
-    logo: bmwi,
-  },
-  {
-    id: "client-17",
-    logo: bmwj,
-  },
-  {
-    id: "client-18",
-    logo: bmwk,
-  },
-  {
-    id: "client-18",
-    logo: bmwl,
-  },
-  {
-    id: "client-18",
-    logo: timing,
-  },
  ];
+
+ export const product = [
+  {
+    id: 1,
+    name: 'BMW ENGINE',
+    href: 'https://rstr.in/x6ztwn2evo1dd7/store/hjHKz-OpX6S',
+    price: 'ZAR 25000',
+    imageSrc: 'https://rstr.in/x6ztwn2evo1dd7/store/hjHKz-OpX6S',
+    imageAlt: 'Tall slender porcelain bottle with natural clay textured body and cork stopper.',
+  },
+  {
+    id: 1,
+    name: 'BMW E90',
+    href: 'https://rstr.in/x6ztwn2evo1dd7/store/lffhB0mR1ey',
+    price: 'ZAR 28000',
+    imageSrc: 'https://rstr.in/x6ztwn2evo1dd7/store/lffhB0mR1ey',
+    imageAlt: 'Tall slender porcelain bottle with natural clay textured body and cork stopper.',
+  },
+  {
+    id: 1,
+    name: 'Toyota 2TR 2.7 Engine',
+    href: 'https://rstr.in/x6ztwn2evo1dd7/store/OuxLcAx05Am',
+    price: 'ZAR 28999',
+    description: 'OEM No. 1140109411',
+    imageSrc: 'https://rstr.in/x6ztwn2evo1dd7/store/OuxLcAx05Am',
+    imageAlt: 'Toyota 2tr 2.7 engine',
+  },
+  {
+    id: 1,
+    name: 'Toyota 1ZR Cylinder Head',
+    href: 'https://rstr.in/x6ztwn2evo1dd7/store/1h8C4Pu6KMt',
+    price: 'ZAR 3999',
+    imageSrc: 'https://rstr.in/x6ztwn2evo1dd7/store/1h8C4Pu6KMt',
+    imageAlt: 'Toyota 1ZR Cylinder Head.',
+  },
+  {
+    id: 1,
+    name: 'AUDI A4  Q5 CDN 2.0L TFSI',
+    href: 'https://rstr.in/x6ztwn2evo1dd7/store/QRoa3c_s630',
+    price: 'ZAR 32000',
+    imageSrc: 'https://rstr.in/x6ztwn2evo1dd7/store/QRoa3c_s630',
+    imageAlt: 'AUDI A4  Q5 CDN 2.0L TFSI.',
+  },
+  {
+    id: 1,
+    name: 'Ford Fiesta 1.6L Engine',
+    href: 'https://rstr.in/x6ztwn2evo1dd7/store/nL7vGBGGNSc',
+    price: 'ZAR 16500',
+    imageSrc: 'https://rstr.in/x6ztwn2evo1dd7/store/nL7vGBGGNSc',
+    imageAlt: 'Tall slender porcelain bottle with natural clay textured body and cork stopper.',
+  },
+  {
+    id: 1,
+    name: 'Polo VW 2009 - 2020 Engine',
+    href: 'https://rstr.in/x6ztwn2evo1dd7/store/Va5qwPr1OP3',
+    price: 'ZAR 28000',
+    imageSrc: 'https://rstr.in/x6ztwn2evo1dd7/store/Va5qwPr1OP3',
+    imageAlt: 'Polo VW 2009 - 2020 Engine.',
+  },
+  {
+    id: 1,
+    name: 'Toyota 1zz.3zz.4zz engine',
+    href: 'https://rstr.in/x6ztwn2evo1dd7/store/7LUf0OlYNLN',
+    price: 'ZAR 29000',
+    imageSrc: 'https://rstr.in/x6ztwn2evo1dd7/store/7LUf0OlYNLN',
+    imageAlt: 'Toyota 1zz.3zz.4zz engine.',
+  },
+  {
+    id: 1,
+    name: 'Toyota 1ZR CrankShaft',
+    href: 'https://rstr.in/x6ztwn2evo1dd7/store/zBs0GcVGkZC',
+    price: '2800',
+    imageSrc: 'https://rstr.in/x6ztwn2evo1dd7/store/zBs0GcVGkZC',
+    imageAlt: 'Toyota 1ZR CrankShaft.',
+  },
+  // More products...
+];
 
  
 

@@ -8,12 +8,17 @@ const Footer = () => (
       <div className="flex-[1] flex flex-col justify-start mr-20">
         <img
           src={logo}
-          alt="Hillside Auto Parts"
+          alt="Hillside AutoParts"
           className="w-[266px] h-[302.14px] object-contain"
         />
         <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
+        Tel: +27 67 665 9535
+        </p>
+
+        <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
         Tel: +27 78 250 7456
         </p>
+       
         <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
         Discover top-quality auto parts at Hillside AutoParts, your one-stop destination for premium car components.
         </p>

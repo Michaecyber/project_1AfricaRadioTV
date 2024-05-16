@@ -42,7 +42,7 @@ import rav from "./rav.png";
 import toyota from "./toyota.png";
 import vw from "./vw.png";
 import yaris from "./yaris.png";
-import timing from "./timing.png"
+import timing from "./timing.png";
 
 export {
   airbnb,
